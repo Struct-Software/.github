@@ -1,21 +1,24 @@
-<img src="assets/struct-mark.png" alt="Struct" width="72">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/struct-lockup-dark.png">
+  <img src="assets/struct-lockup.png" alt="Struct" width="169">
+</picture>
 
-# Struct
-
-**Software product company.** Construimos integraciones de punto de venta,
-ecommerce y ERP: los sistemas por donde pasan el dinero y el inventario de un
-negocio, conectados entre sí.
+**Compañía de producto de software.** Construimos integraciones de punto de
+venta, ecommerce y ERP: los sistemas por donde pasan el dinero y el inventario
+de un negocio, conectados entre sí.
 
 Software de operación, no de escaparate. Nuestro trabajo corre todos los días,
 en horario de caja, y se mide en cifras que tienen que cuadrar.
 
+**Estructura · Precisión · Cercanía técnica · Escala.**
+
 ---
 
-## Nuestro producto
+## Productos
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/struct-lockup-horizontal-dark.png">
-  <img src="assets/struct-lockup-horizontal.png" alt="StructPOS" width="252">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/structpos-lockup-dark.png">
+  <img src="assets/structpos-lockup.png" alt="StructPOS" width="237">
 </picture>
 
 ERP + POS + Ecommerce para PyMES, en una sola plataforma.
@@ -27,6 +30,16 @@ ERP + POS + Ecommerce para PyMES, en una sola plataforma.
 | **Compras** | Órdenes, proveedores, recepciones |
 | **Facturación** | CFDI 4.0: timbrado, cancelación y descarga masiva del SAT |
 | **Ecommerce** | Sincronización de catálogo y pedidos con Shopify; cobros con Stripe |
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/apollo-lockup-dark.png">
+  <img src="assets/apollo-lockup.png" alt="Apollo" width="153">
+</picture>
+
+Template multi-tenant SaaS: tenancy por subdominio, RBAC y bitácora de
+auditoría. El cimiento del que nacen nuestros productos.
 
 ---
 
@@ -54,4 +67,4 @@ visto bueno.
 
 ---
 
-**StructPOS — la estructura de tu operación.**
+**Struct — la estructura de tu operación.**
