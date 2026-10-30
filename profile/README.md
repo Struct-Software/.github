@@ -34,6 +34,18 @@ ERP + POS + Ecommerce para PyMES, en una sola plataforma.
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/interfon-lockup-dark.png">
+  <img src="assets/interfon-lockup.png" alt="Interfón AI" width="219">
+</picture>
+
+Orquestación inteligente de accesos vehiculares y peatonales para
+fraccionamientos, condominios y parques industriales. Foni, su agente, atiende
+al visitante en el kiosco, captura y valida los datos y coordina con residentes
+y caseta. Foni coordina; una persona autoriza.
+
+<br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/apollo-lockup-dark.png">
   <img src="assets/apollo-lockup.png" alt="Apollo" width="153">
 </picture>
